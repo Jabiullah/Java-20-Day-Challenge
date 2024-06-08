@@ -21,6 +21,8 @@ This repository contains all the code and notes I created during this challenge.
 I am taking on this 20-day challenge to enhance my understanding of fundamental data structures and algorithms using Java. 
 Each day, I will focus on a specific topic and implement related code to reinforce my learning. This README will be updated daily to reflect my progress.
 
+![](https://komarev.com/ghpvc/?username=Jabiullah&color=green)
+
 ## Daily Progress
 
 ### Day 1 - Array & ArrayList
