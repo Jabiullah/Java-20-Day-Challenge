@@ -11,7 +11,8 @@ This repository contains all the code and notes I created during this challenge.
   - [Day 1: Array & ArrayList](#day-1---array--arraylist)
   - [Day 2: Linked List](#day-2---linked-list)
   - [Day 3: Linked List Palindrome](#day-3---linked-list-palindrome)
-  - [Day 4: Queue](#day-4---queue)
+  - [Day 4: Stack](#day-4---stack)
+  - [Day 5: Queue](#day-4---queue)
 
 - [Resources](#resources)
 - [Contact](#contact)
@@ -21,7 +22,7 @@ This repository contains all the code and notes I created during this challenge.
 I am taking on this 20-day challenge to enhance my understanding of fundamental data structures and algorithms using Java. 
 Each day, I will focus on a specific topic and implement related code to reinforce my learning. This README will be updated daily to reflect my progress.
 
-![](https://komarev.com/ghpvc/?username=Jabiullah&color=green)
+![](https://komarev.com/ghpvc/?username=Jabiullah&color=blue)
 
 ## Daily Progress
 
@@ -47,14 +48,25 @@ Each day, I will focus on a specific topic and implement related code to reinfor
   - Implemented a basic singly linked list from scratch, understanding how nodes are linked together and practising operations such as insertion and deletion.
   - Implemented a solution that involves reversing the second half of the list and comparing it with the first half.
 
-### Day 4 - Queue
+### Day 4 - Stack
 - **Topics Covered:**
-  - Queue Data Structure
+  - Stack Data Structure
   - Implementation using ArrayList and Linked List
 - **Code:**
-  - [Queue Implementation](https://github.com/Jabiullah/Java-20-Days-Challenge/tree/master/src/stack_and_queue)
+  - [Stack Implementation](https://github.com/Jabiullah/Java-20-Days-Challenge/tree/master/src/stack_and_queue)
 - **Summary:**
-  - Learned about the queue data structure and its operations. Implemented queue using both ArrayList and Linked lists.
+  - Learned about the Stack data structure and its operations. Implemented Stack using both ArrayList and Linked lists.
+    
+### Day 5 - Queue Basic
+- **Topics Covered:**
+  - Queue Data Structure with (Queue and Linked List) library.
+  - Comparison with Stack and Queue. 
+- **Code:**
+  - [Queue Implementation](https://github.com/Jabiullah/Java-20-Day-Challenge/blob/master/src/stack_and_queue_week_2/queue_basic.java)
+- **Summary:**
+  - Learned about the Queue data structure and its operations. 
+    
+ 
 
 
 ## Resources
