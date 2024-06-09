@@ -1,7 +1,6 @@
-package stack_and_queue;
+package stack_and_queue_week_2;
 
 import java.util.ArrayList;
-import java.util.Stack;
 
 public class stack_ques_2 {
     // reverse a stack using O(1) space complexity
