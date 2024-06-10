@@ -12,8 +12,9 @@ This repository contains all the code and notes I created during this challenge.
   - [Day 2: Linked List](#day-2---linked-list)
   - [Day 3: Linked List Palindrome](#day-3---linked-list-palindrome)
   - [Day 4: Stack](#day-4---stack)
-  - [Day 5: Queue](#day-4---queue)
-
+  - [Day 5: Queue](#day-5---queue--basic)
+  - [Day 6: Queue Implementation](#day-6---queue-implementation)
+ 
 - [Resources](#resources)
 - [Contact](#contact)
 
@@ -66,7 +67,16 @@ Each day, I will focus on a specific topic and implement related code to reinfor
 - **Summary:**
   - Learned about the Queue data structure and its operations. 
     
+### Day 6 - Queue Implementation
+- **Topics Covered:**
+  - Queue Implementation using Array and Linked List
+  - 
+- **Code:**
+  - [Queue Implementation](https://github.com/Jabiullah/Java-20-Day-Challenge/blob/master/src/stack_and_queue_week_2/queue_basic_3.java)
+- **Summary:**
+  - Learned about the Queue data structure and its operations. 
  
+
 
 
 ## Resources
