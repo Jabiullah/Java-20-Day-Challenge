@@ -55,7 +55,7 @@ public class binary_tree_basic_2 {
             }
             int leftHeight = getHeight(root.left);
             int rightHeight = getHeight(root.right);
-            return 1 + Math.max(leftHeight, rightHeight);
+            return 1 + Math.max(leftHeight, rightHeight); //
         }
     }
 
@@ -68,9 +68,8 @@ public class binary_tree_basic_2 {
         System.out.println("Total nodes : "+nodes);
         System.out.println("Number of leaf node : "+(nodes+1)/2);
 
-        int depth = bt.getHeight(root);
-        System.out.println("Depth of tree : "+depth);
+        int height = bt.getHeight(root);
+        System.out.println("Height of tree : "+height);
 
-        System.out.println("Height of tree : "+(depth-1));
     }
 }
