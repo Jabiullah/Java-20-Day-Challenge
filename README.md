@@ -16,7 +16,7 @@ This repository contains all the code and notes I created during this challenge.
   - [Day 6: Queue Implementation](#day-6---queue-implementation)
   - [Day 7: Trees and Tree Traversals](#day-7---trees-and-tree-traversals)
   - [Day 8: Binary Trees (BT)](#day-8---binary-trees-bt)
-  - [Day 9: Practise on BT](#day-9---practise-bt)
+  - [Day 9: Practise on BT](#day-9---practise-on-bt)
   
 - [Resources](#resources)
 - [Contact](#contact)
@@ -92,10 +92,10 @@ Each day, I will focus on a specific topic and implement related code to reinfor
 - **Code:**
   - [BT Implementation](https://github.com/Jabiullah/Java-20-Days-Challenge/tree/master/src/binary_tree_week_2/binary_tree_basic_2.java)
 
-### Day 9 - Practise  BT
+### Day 9 - Practise on BT
 
 - **Code:**
-  - [BT Implementation](https://github.com/Jabiullah/Java-20-Days-Challenge/tree/master/src/binary_tree_week_2/binary_tree_practise.java)
+  - [Practise](https://github.com/Jabiullah/Java-20-Days-Challenge/tree/master/src/binary_tree_week_2/binary_tree_practise.java)
 
 
 
