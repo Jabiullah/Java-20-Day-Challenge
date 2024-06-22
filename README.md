@@ -18,6 +18,7 @@ This repository contains all the code and notes I created during this challenge.
   - [Day 8: Binary Tree (BT)](#day-8---binary-tree-bt)
   - [Day 9: Practise on BT](#day-9---practise-on-bt)
   - [Day 10: Binary Search Tree](#day-10---binary-search-tree)
+  - [Day 11: BST Delete Property](#day-11---bst-delete-property)
   
 - [Resources](#resources)
 - [Contact](#contact)
@@ -103,8 +104,13 @@ Each day, I will focus on a specific topic and implement related code to reinfor
 - **Topics Covered:**
   - BST Properties (Insert, Search, InOrder Traversal)
 - **Code:**
-  - [Practise](https://github.com/Jabiullah/Java-20-Days-Challenge/tree/master/src/binary_tree_week_2/binary_search_tree.java)
+  - [Binary Search Tree](https://github.com/Jabiullah/Java-20-Days-Challenge/tree/master/src/binary_tree_week_2/binary_search_tree.java)
 
+### Day 11 - BST Delete Property
+- **Topics Covered:**
+  - BST Properties (Delete Cases)
+- **Code:**
+  - [BST Delete Property](https://github.com/Jabiullah/Java-20-Days-Challenge/tree/master/src/binary_tree_week_2/binary_search_tree.java)
 
 ## Resources
 
@@ -117,5 +123,4 @@ Feel free to reach out if you have any questions or suggestions!
 - **LinkedIn:** [Rabbius Sani Jabiullah](https://www.linkedin.com/in/rabius-sani-jabiullah-68b402195/)
 
 ---
-
 Thanks for visiting my repository! Stay tuned for more updates. 😊
