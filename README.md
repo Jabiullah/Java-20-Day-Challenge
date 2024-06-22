@@ -15,8 +15,9 @@ This repository contains all the code and notes I created during this challenge.
   - [Day 5: Queue Basics](#day-5---queue-basics)
   - [Day 6: Queue Implementation](#day-6---queue-implementation)
   - [Day 7: Trees and Tree Traversals](#day-7---trees-and-tree-traversals)
-  - [Day 8: Binary Trees (BT)](#day-8---binary-trees-bt)
+  - [Day 8: Binary Tree (BT)](#day-8---binary-tree-bt)
   - [Day 9: Practise on BT](#day-9---practise-on-bt)
+  - [Day 10: Binary Search Tree](#day-10---binary-search-tree)
   
 - [Resources](#resources)
 - [Contact](#contact)
@@ -88,7 +89,7 @@ Each day, I will focus on a specific topic and implement related code to reinfor
 
 ### Day 8 - Binary Tree (BT)
 - **Topics Covered:**
-  - BST Properties (Number of nodes, Number of leaf Nodes, Height)
+  - BT Properties (Number of nodes, Number of leaf Nodes, Height)
 - **Code:**
   - [BT Implementation](https://github.com/Jabiullah/Java-20-Days-Challenge/tree/master/src/binary_tree_week_2/binary_tree_basic_2.java)
 
@@ -98,6 +99,11 @@ Each day, I will focus on a specific topic and implement related code to reinfor
   - [Practise](https://github.com/Jabiullah/Java-20-Days-Challenge/tree/master/src/binary_tree_week_2/binary_tree_practise.java)
 
 
+### Day 10 - Binary Search Tree
+- **Topics Covered:**
+  - BST Properties (Insert, Search, InOrder Traversal)
+- **Code:**
+  - [Practise](https://github.com/Jabiullah/Java-20-Days-Challenge/tree/master/src/binary_tree_week_2/binary_search_tree.java)
 
 
 ## Resources
