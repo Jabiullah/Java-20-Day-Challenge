@@ -26,6 +26,7 @@ public class hashMap {
         // Case 2: for keys.
 
         System.out.println("Palestine (Value): "+map.get("Palestine"));
+        System.out.println("IND (Value): "+map.get("INDIA"));
 
         // containsKey output will be true or false.
         System.out.println("Does BD(Key) is available on map ? "+map.containsKey("BD"));
