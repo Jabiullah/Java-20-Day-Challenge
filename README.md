@@ -20,6 +20,7 @@ This repository contains all the code and notes I created during this challenge.
   - [Day 10: Binary Search Tree](#day-10---binary-search-tree)
   - [Day 11: BST Delete Property](#day-11---bst-delete-property)
   - [Day 12: Hashing](#day-12---hashing)
+  - [Day 13: HashMap](#day-13---hashmap-implementation)
   
 - [Resources](#resources)
 - [Contact](#contact)
@@ -119,6 +120,12 @@ Each day, I will focus on a specific topic and implement related code to reinfor
   - HashMap
 - **Code:**
   - [Hashing](https://github.com/Jabiullah/Java-20-Days-Challenge/tree/master/src/hash_week_3)
+  - 
+### Day 13 - HashMap Implementation
+- **Topics Covered:**
+  - HashMap
+- **Code:**
+  - [HashMap-Implementation](https://github.com/Jabiullah/Java-20-Days-Challenge/tree/master/src/hashMapImplementation)
 
 
 ## Resources
