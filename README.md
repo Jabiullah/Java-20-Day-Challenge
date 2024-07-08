@@ -125,7 +125,7 @@ Each day, I will focus on a specific topic and implement related code to reinfor
 - **Topics Covered:**
   - HashMap
 - **Code:**
-  - [HashMap-Implementation](https://github.com/Jabiullah/Java-20-Days-Challenge/tree/master/src/hashMapImplementation)
+  - [HashMap-Implementation](https://github.com/Jabiullah/Java-20-Days-Challenge/tree/master/src/hashMapImplementation.java)
 
 
 ## Resources
